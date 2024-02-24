@@ -55,6 +55,7 @@
         {"key":"阿里云集合","name":"📀阿里合集(网盘)","type":3,"api":"csp_阿里云集合","searchable":1,"filterable":0,"switchable":0,"jar":"./lib/阿里合集0131.jar","ext":"./alitoken.txt"},
         {"key":"AList","name":"📀AList(网盘)","type":3,"api":"csp_AList","searchable":1,"recordable":0,"jar":"./lib/pg.jar","ext":{"drives":[{"name":"9T","server":"https://drive.upan.ee","params":[{"path":"/OneDrive","pass":"upan"},{"path":"/115Cloud","pass":"upan"}]}]}},
         {"key":"❤hyzy","name":"❤hyzy","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://gitee.com/hnryzzh/zzh/raw/master/jar/影视.jar"},
+        {"key":"❤msnzy","name":"❤msnzy","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://gitee.com/hnryzzh/zzh/raw/master/jar/影视.jar"},
         {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"},
         //磁力资源区
         {"key":"csp_Mp4Mov","name":"(慎用)Mp4电影","type":3,"api": "csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1},
