@@ -3,5 +3,10 @@
 {"name":"A02","url":"https://raw.githubusercontent.com/ftschool/live/main/China%26Japan.m3u"},
 {"name":"A03","url":"https://raw.githubusercontent.com/ftschool/live/main/madou%26oumei.m3u"},
 {"name":"A04","url":"https://raw.githubusercontent.com/ftschool/live/main/sex.m3u"},
-{"name":"A05","url":"https://raw.gitcode.com/tytv/ty2024/raw/main/%E7%B3%96%E6%84%8F"}
+{"name":"A05","url":"https://raw.gitcode.com/tytv/ty2024/raw/main/%E7%B3%96%E6%84%8F"},
+{"name":"A06","url":"https://raw.gitcode.com/tytv/ty2024/raw/main/tv.txt"},
+{"name":"A07","url":"https://raw.gitcode.com/tytv/ty2024/raw/main/live3_ax18.txt"},
+{"name":"A08","url":"https://raw.gitcode.com/tytv/ty2024/raw/main/live2_ax18.txt"},
+{"name":"A09","url":"https://raw.gitcode.com/tytv/ty2024/raw/main/live0_ax18.txt"},
+{"name":"A10","url":"https://raw.gitcode.com/tytv/ty2024/raw/main/live001_18.txt"}
 ]
