@@ -9,6 +9,7 @@
         {"key":"csp_LocalFile","name":"💻本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
         //网盘资源区
         {"key":"网盘配置","name":"📀网盘及彈幕配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json"},
+        {"key":"T4-安博","name":"安博(T4)","type":4,"api":"https://tang.serv00.net/power/ub1818?token=f61ef2f1","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
         {"key":"Fangniu4k","name":"放牛|4K","type":3,"api":"csp_WexFangniu4k","searchable":1,"changeable":0,"jar":"./lib/wex.jar"},
         {"key":"drpy_js_影探[V2]","name":"影探|4K","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/影探[V2].js"},
         {"key":"玩偶哥哥","name":"玩偶|4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"jar":"./lib/fty.jar","ext":"./alitoken.txt$$$https://www.wogg.link/$$$弹"},
