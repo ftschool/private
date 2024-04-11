@@ -78,6 +78,7 @@
         {"key":"JavBus","name":"❤JavBus","type":3,"api":"csp_JavBus","searchable":0,"changeable":1,"jar":"./lib/pg.jar","ext":"https://www.cdnbus.art"},
         {"key":"csp_JavDb","name":"❤JavDb","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"timeout":60,"jar":"./lib/pg.jar","ext":"https://javdb365.com"},
         {"key":"Eighteen","name":"❤Eighteen","type":3,"api":"csp_Eighteen","searchable":0,"changeable":1,"jar":"./lib/pg.jar"},
+        {"key":"heiliao","name":"❤黑料","type":3,"changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","ext":{"分类":"今日吃瓜$6#今日热搜$7#热门大瓜$8#黑料历史$10#独家爆料$9","分类url":"https://yt6d.yilecdi.com/category/{cateId}/{catePg}.html","直接播放":"1"}},
         {"key":"❤hyzy","name":"❤hyzy","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://gitee.com/hnryzzh/zzh/raw/master/jar/影视.jar"},
         {"key":"❤msnzy","name":"❤msnzy","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://gitee.com/hnryzzh/zzh/raw/master/jar/影视.jar"},
         {"key":"❤ddzy","name":"❤ddzy","type":0,"api":"https://dadiapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://agit.ai/SexTVBox/TVBox/raw/branch/master/1009_.jar"},
