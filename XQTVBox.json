@@ -106,6 +106,7 @@
         {"key":"Bt0","name":"不太灵|磁","type":3,"api":"csp_Bt0","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"jar":"./lib/pg.jar","ext":"null$$$null$$$1"},
         {"key":"BtSearch","name":"BT搜索|磁","type":3,"api":"csp_BtSearch","searchable":1,"changeable":1,"timeout":60,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$null$$$null$$$1"},
         {"key":"Clg","name":"磁力狗|磁","type":3,"api":"csp_Clg","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://clg.clgvip1.xyz/$$$null$$$1","style": {"type": "rect","ratio": 1.5}},
+        {"key":"BtSow","name":"BTSow|磁","type":3,"api":"csp_BtSow","searchable":1,"changeable":1,"timeout":60,"jar":"./lib/pg.jar","ext":"null$$$null$$$1"},
         //资源解析区
         {"key":"苹果","name":"苹果|2K","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fty.jar"},
         {"key":"mingriyingshi","name":"明日|2K","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
