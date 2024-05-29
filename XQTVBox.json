@@ -125,7 +125,8 @@
         {"key":"Clg","name":"磁力狗|磁","type":3,"api":"csp_Clg","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://clg.clgvip1.xyz/$$$null$$$1","style": {"type": "rect","ratio": 1.5}},
         //资源解析区
         {"key":"苹果","name":"苹果|2K","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fan.jar"},
-        {"key":"mingriyingshi","name":"明日|2K","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
+        {"key":"开心影视","name":"开心|2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/开心影视.json","jar":"./lib/XBPQ(原).jar"},
+	{"key":"mingriyingshi","name":"明日|2K","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         {"key":"Diduanys","name":"深渊|2K","type":3,"api":"csp_WexDiduanys","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         {"key":"F4kvm","name":"纯享|2K","type":3,"api":"csp_WexF4kvm","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         {"key":"哔嘀影视","name":"哔嘀|2K","type":3,"api":"csp_WexBDys","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
